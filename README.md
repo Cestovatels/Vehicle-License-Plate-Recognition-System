@@ -16,6 +16,9 @@ A complete vehicle and license plate recognition system with detection, tracking
 - Visualization: Draws tracking and recognition results on the video.
 
 ---
+## 🖼 A still from the generated output video.
+![A still from the generated output video.](https://github.com/Cestovatels/Vehicle-License-Plate-Recognition-System/blob/main/image/Plate-Detection-frame.png)
+
 
 ## 📦 Installation
 
