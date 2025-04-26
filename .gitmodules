@@ -1,3 +1,4 @@
 [submodule "sort"]
 	path = sort
 	url = https://github.com/abewley/sort.git
+	branch = master
