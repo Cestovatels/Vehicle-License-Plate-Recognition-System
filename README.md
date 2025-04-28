@@ -37,7 +37,7 @@ python main.py \
   --output_dir output \
   --vehicle_model models/yolov8n.pt \
   --plate_model models/license_plate_detector.pt \
-  --skip_visualization  (action="store_true")
+  --skip_visualization  # (action="store_true")
 ```
 
 ## ✅ For all available arguments, check:
